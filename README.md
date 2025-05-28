@@ -1,6 +1,7 @@
 # Tic Tac Toe AI 🎮🤖
 
 A command-line Tic Tac Toe game written in Python, featuring a fully autonomous AI opponent using the minimax algorithm.
+Made for an Artifical Intelligence class in university, I thought it would be worth uploading to my github.
 
 ## 🧠 Features
 
