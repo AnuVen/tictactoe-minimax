@@ -23,10 +23,8 @@ Grid positions are labeled like this:
 20 | 21 | 22
 
 Enter moves as row + column (e.g., 1 1 for the center square).
-📈 Future Upgrades
 
-    Add difficulty settings (e.g. random, smart, perfect)
-
-    GUI mode (Tkinter / PyGame)
-
-    Score tracking / leaderboard
+📈 Future Upgrades:
+- Add difficulty settings (e.g. random, smart, perfect)
+- GUI mode
+- Score tracking / leaderboard
